@@ -1,0 +1,10 @@
+simpletransformers
+sklearn
+hyperopt
+xgboost
+pandas
+numpy
+torch
+nltk
+seaborn
+wordcloud
